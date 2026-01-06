@@ -4,3 +4,4 @@ opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 tqdm
 numba==0.57.1
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 by terminal
